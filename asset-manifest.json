@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/VendingMachine-React/static/css/main.5cf71db8.css",
+    "main.js": "/VendingMachine-React/static/js/main.e5b5df5e.js",
+    "static/js/787.a3838122.chunk.js": "/VendingMachine-React/static/js/787.a3838122.chunk.js",
+    "static/media/sardines.gif": "/VendingMachine-React/static/media/sardines.d519ef14209aa4a4dd0c.gif",
+    "static/media/chips.png": "/VendingMachine-React/static/media/chips.dba78ec545aa17ae94ef.png",
+    "static/media/soda.png": "/VendingMachine-React/static/media/soda.1f57755061072165f200.png",
+    "static/media/vending_machine.jpg": "/VendingMachine-React/static/media/vending_machine.c4a5740768bce2abfa1e.jpg",
+    "index.html": "/VendingMachine-React/index.html",
+    "main.5cf71db8.css.map": "/VendingMachine-React/static/css/main.5cf71db8.css.map",
+    "main.e5b5df5e.js.map": "/VendingMachine-React/static/js/main.e5b5df5e.js.map",
+    "787.a3838122.chunk.js.map": "/VendingMachine-React/static/js/787.a3838122.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5cf71db8.css",
+    "static/js/main.e5b5df5e.js"
+  ]
+}
